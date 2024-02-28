@@ -1,0 +1,52 @@
+.nav-underline {
+    justify-content: end;
+}
+
+.nav-item { 
+    position: relative;
+    right: 11%;
+    color: black;
+}
+
+.nav-item2 {
+    position: relative;
+    right: 6%;
+    color: black;
+}
+
+.nav-item3 {
+    position: relative;
+    right: 1%;
+    color: black;
+}
+
+.help {
+    text-align: center;
+    position: relative;
+    top: 300%;
+    border: groove rgb(124, 124, 124) 5px;
+    font-family: "Codec pro";
+    width: 900px;
+}
+
+.email {
+    position: relative;
+    top: 400px;
+    left: 400px;
+    font-family: "Codec pro";
+}
+
+#imagem_email {
+    width: 60px;
+}
+
+.telefone {
+    position: relative;
+    top: 300px;
+    left: 1200px ;
+    font-family: "Codec pro";
+}
+
+#imagem_telefone {
+    width: 60px;
+}
